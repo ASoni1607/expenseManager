@@ -1,0 +1,129 @@
+html,body
+{
+    height: 100%;
+}
+
+lable
+{
+    user-select:none;
+}
+
+input[disabled]
+{
+    cursor: text !important; 
+}
+
+#banner_image 
+{
+    padding-top:150px;
+    padding-bottom:200px;
+    text-align:center;
+    color:#f8f8f8;
+    background:url("img/rs.jpg") no-repeat center center;
+    background-size:cover;
+    min-height: 610px;
+}
+#banner_content 
+{
+    position: relative;
+    padding-top: 3%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 1000px;
+    margin:auto;
+}
+footer
+{
+    padding:10px 0;
+    background-color:#101010;
+    color:#9d9d9d;
+    bottom:0;
+    width:100%;
+}
+footer p
+{
+    cursor:none;
+}
+.bg
+{
+    background-color:rgb(248,254,255);
+    min-height: 610px;
+} 
+.button1 
+{
+    background-color: white;
+    color: green;
+    border: 2px solid #0a8065; /* Green */
+}
+.right
+{
+    float: right;
+
+}
+.left
+{
+    float: left;
+}
+.rightmargin
+{
+    margin: -50px 50px 0 0;
+}
+.glyphicon.glyphicon-plus-sign
+{
+    font-size: 36px;
+    color: green;
+}
+
+.button2
+{
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+}
+.g
+{
+    color:#0a902b;
+}
+.b
+{
+    color: black;
+}
+.r
+{
+    color:red;
+}
+
+
+.panel-heading
+{
+    font-size: 20px;
+    background-color:#0a8065 !important;
+    color:white !important;
+}
+.hight1
+{
+    min-height: 610px;
+}
+button:hover
+{
+    background-color: #0a8065;
+    color:white;
+    border: 2px solid #0a8065;
+}
+cc
+{                   
+    color:black;     
+}
+
+.button2
+{
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+}
+a:hover
+{text-decoration: none;
+ color:green;      
+}
